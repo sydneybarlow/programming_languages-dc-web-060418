@@ -1,7 +1,9 @@
 def reformat_languages(languages)
   new_hash = []
   languages do |styles, language_names|
-  
+    language_names do |type, status|
+      
+    end  
   end  
 end
 
