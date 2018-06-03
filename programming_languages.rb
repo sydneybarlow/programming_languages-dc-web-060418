@@ -1,7 +1,7 @@
 def reformat_languages(languages)
   new_hash = []
   languages.values do |styles, language_names|
-  binding.pry
+    
   end  
 end
 
