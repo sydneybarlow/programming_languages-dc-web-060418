@@ -1,9 +1,13 @@
 def reformat_languages(languages)
   new_hash = []
-  languages[:oo][:ruby][]
+  languages do |styles, language_names|
+    language_names do |type, status|
+      type = 
+    end  
+  end  
 end
 
-# contacts["Jon Snow"][:favorite_icecream_flavors] << "mint chip"
+
 
 # hash = {}
 # hash[:my_key] = "my value"
