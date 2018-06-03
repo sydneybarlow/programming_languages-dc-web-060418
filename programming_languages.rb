@@ -3,7 +3,7 @@ def reformat_languages(languages)
   languages[:oo][:ruby][]
 end
 
-
+# contacts["Jon Snow"][:favorite_icecream_flavors] << "mint chip"
 
 # hash = {}
 # hash[:my_key] = "my value"
